@@ -1,0 +1,13 @@
+html.dark {
+    --text-color: #fff;
+    --icon-color: brightness(0) saturate(100%) invert(99%) sepia(12%)
+        saturate(40%) hue-rotate(196deg) brightness(116%) contrast(100%);
+    // --text-color: red;
+    // --icon-color: brightness(0) saturate(100%) invert(16%) sepia(90%)
+    //     saturate(6560%) hue-rotate(358deg) brightness(100%) contrast(118%);
+
+    --header-bg-color: #171c28;
+    --top-action-group-bg-color: #292e39;
+    --top-action-group-shadow-color: rgba(0, 0, 0, 0.2);
+    --top-action-group-seperate-color: #ededf6;
+}
